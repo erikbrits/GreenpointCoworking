@@ -85,10 +85,11 @@ Our Logo
 
 Original CSS uses a boatload of:
 
-#ffffff
+#ffffff  which is white... well done Erik.
 
 I've been modifying /*Type*/ and I took
 
     #312450
 
-out of /*Basic*/
+out of /*Basic*/ (Where it was the button hover
+colour... not the sidebar! I think anyway...)
