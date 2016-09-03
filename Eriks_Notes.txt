@@ -108,3 +108,13 @@ the ul need to be styled individually?
 I'm going to replace #312450 with #50b748
 in the #sidebar top level stuff.
 
+Then I made it darker because looked bad.
+( #0d9947 )
+
+Now I'm going to fuck with 
+			#sidebar nav a:before {
+				background: #3c2c62;
+			}
+
+			#sidebar nav a:after {
+
