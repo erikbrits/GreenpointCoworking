@@ -187,4 +187,6 @@ I've only put in two reds and there are three
 being displayed. Are they a transparency on top 
 of something else??
 
+-----------------------
 
+Anyway, let's swap in a lighter grey.
