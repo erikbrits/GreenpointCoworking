@@ -19,8 +19,24 @@ Table Mountain SVG update
     <line x1="635" y1="375" x2="680" y2="400"/>
 
 
+    <line x1="465" y1="325" x2="465" y2="100"/>
+
+
+    
     <line x1="" y1="" x2="" y2=""/>
     <line x1="" y1="" x2="" y2=""/>
+    <line x1="" y1="" x2="" y2=""/>
+    <line x1="" y1="" x2="" y2=""/>
+    <line x1="" y1="" x2="" y2=""/>
+    <line x1="" y1="" x2="" y2=""/>
+    <line x1="" y1="" x2="" y2=""/>
+    <line x1="" y1="" x2="" y2=""/>
+
+
+    <line x1="" y1="" x2="" y2=""/>
+    <line x1="" y1="" x2="" y2=""/>
+    <line x1="" y1="" x2="" y2=""/>
+
 
 To Replace:
 
