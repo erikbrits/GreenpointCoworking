@@ -176,4 +176,15 @@ Here Goes...
 In alternating order, I've swapped in the Purecss
 colors.
 
+---------
+
+That worked quite nicely, actually.
+
+Although I don't get how the reds are being 
+controlled in the mid-body of the site...
+
+I've only put in two reds and there are three
+being displayed. Are they a transparency on top 
+of something else??
+
 
