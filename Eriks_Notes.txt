@@ -228,3 +228,21 @@ something else.
 Let's go fuck up the SVG file positioning!!!!
 
 
+You changed
+
+	#intro {
+		background-attachment: local;
+		background-image: url("images/intro.svg");
+		background-position: top right;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+
+    background-position to bottom left and nada
+    So you undid that
+    But you changed
+    background-attachment: fixed
+    TO LOCAL 
+    and NADA happened
+
+    BUT you did not undo this. Ok?
