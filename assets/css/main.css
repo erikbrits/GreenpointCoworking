@@ -3883,9 +3883,9 @@
 /* Intro */
 
 	#intro {
-		background-attachment: fixed;
+		background-attachment: local;
 		background-image: url("images/intro.svg");
-		background-position: bottom left;
+		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
