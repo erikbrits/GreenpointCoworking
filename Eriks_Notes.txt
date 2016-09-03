@@ -54,3 +54,41 @@ To Replace:
 	<line x1="1150" y1="0" x2="150" y2="500" />
 	<line x1="700" y1="0" x2="-300" y2="500" />
 	<line x1="150" y1="0" x2="-850" y2="500" />
+
+Let's talk about colour! (ack. color)
+
+Purecss.io uses:
+
+Grey
+    #E6E6E6
+    #eaeded
+    #cad2d3
+    #f2f2f2
+
+    #565d64
+
+
+Blue
+    #0078e7
+    #129FEA
+    
+Red    
+    #b94a49
+    #e9322d
+    
+Our Logo
+(Light Green, Dark Green, Dark Grey)
+
+#50b748
+#0d9947
+#6d6d6d    
+
+Original CSS uses a boatload of:
+
+#ffffff
+
+I've been modifying /*Type*/ and I took
+
+    #312450
+
+out of /*Basic*/
