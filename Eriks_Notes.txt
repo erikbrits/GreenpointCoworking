@@ -120,3 +120,17 @@ Now I'm going to fuck with
 
 Holy shit that worked nicely.
 
+>>Header
+
+		background-color: #5e42a6;
+
+>>Wrapper
+
+There are a Lot of Colours in here!!!
+
+Let's kill one or two...
+
+		.wrapper.style1 {
+			background-color: #5e42a6;
+		}
+    
