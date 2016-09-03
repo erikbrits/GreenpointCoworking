@@ -198,3 +198,14 @@ Eh, still a bunch of unreadable stuff.
 Grey is not winning as our main block.
 
 Fuck it, let's go Green!
+
+Turns out that was the wrong line of code...
+
+		.wrapper.style1 {
+			background-color: #0d9947 ;
+		}
+
+        ??!!
+        
+         
+
