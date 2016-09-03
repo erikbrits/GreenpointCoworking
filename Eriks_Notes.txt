@@ -83,13 +83,28 @@ Our Logo
 #0d9947
 #6d6d6d    
 
-Original CSS uses a boatload of:
 
-#ffffff  which is white... well done Erik.
+White
 
-I've been modifying /*Type*/ and I took
+#ffffff  
 
-    #312450
+Weird Dark Purple
 
-out of /*Basic*/ (Where it was the button hover
-colour... not the sidebar! I think anyway...)
+#312450
+
+Some notes on the CSS file structure.
+
+>>Intro
+loads the SVG file that I drew Table Mountain in.
+It loads it as an image so I could probably swap it
+for a jog?
+
+>>Sidebar
+
+eish there's a lot of code here. WTF do all the 
+'delay' snippets do? Why does every child of
+the ul need to be styled individually?
+
+I'm going to replace #312450 with #50b748
+in the #sidebar top level stuff.
+
